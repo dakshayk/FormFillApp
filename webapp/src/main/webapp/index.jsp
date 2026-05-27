@@ -3,7 +3,19 @@
     <h1>Welcome!! Saidemy DevOps Student Registration Form!!</h1>
     <p>Please fill in this form for registration!!!</p>
     <hr>
-    <br>  
+    <br>
+
+
+    <h1>Welcome!! Saidemy DevOps Student Registration Form!!</h1>
+    <p>Please fill in this form for registration!!!</p>
+    <hr>
+    <br>
+
+
+
+
+
+
 
     <label for="email"><b>Email</b></label>
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
